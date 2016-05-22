@@ -1,7 +1,7 @@
 Social Strata
 =====================
 
-A challange of the VanHackathon (to mygreenspace group)
+A challenge of the VanHackathon (to mygreenspace group)
 
 ## Description
 Home, Inbox and Lost & Found features navigation with sample data
