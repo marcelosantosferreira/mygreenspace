@@ -1,4 +1,4 @@
-Social Strat
+Social Strata
 =====================
 
 A challange of the VanHackathon (to mygreenspace group)
